@@ -1,5 +1,10 @@
 docs/site/
-
+data/
+*.png 
+results/
+reports/
+models/
+datasets/
 # test cache
 manual_test/
 
