@@ -5,6 +5,7 @@ results/
 reports/
 models/
 datasets/
+.github/
 # test cache
 manual_test/
 
